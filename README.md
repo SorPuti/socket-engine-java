@@ -1,7 +1,7 @@
 # socket-engine-java
 
 ## Manve Dependency:
-```py
+```maven
     <dependency>
 			<artifactId>socket-engine</artifactId>
 			<groupId>br.com.github.puti.engine.socket</groupId>
