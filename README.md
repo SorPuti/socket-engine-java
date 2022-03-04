@@ -1,6 +1,6 @@
 # socket-engine-java
 
-## Manve Dependency:
+## Maven Dependency:
 ```maven
 <dependency>
  <artifactId>socket-engine</artifactId>
